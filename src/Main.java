@@ -1,3 +1,4 @@
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Main {
@@ -17,6 +18,14 @@ public class Main {
         Animal.showAnimal();
 
 
+        LinkedList<Student> list = new LinkedList<>();
+        list.add(new Student("vlad",22234,2,8.6));
+        list.add(new Student("pavel",44534,3,5.4));
+        list.add(new Student("daniil",25543,2,2.5));
+        list.add(new Student("leonid",44532,3,4));
+        Task3.deleteStudent(list);
+
+        Task3.printStudent(list,3);
 
     }
 }
