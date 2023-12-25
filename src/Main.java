@@ -27,5 +27,23 @@ public class Main {
 
         Task3.printStudent(list,3);
 
+
+
+        ArrList<Integer> arrList = new ArrList<>();
+        arrList.add(54);
+        arrList.add(4);
+        arrList.add(87);
+        arrList.add(1);
+        arrList.add(87);
+        arrList.show();
+        arrList.add(43,3);
+        arrList.show();
+        arrList.show(4);
+        arrList.delete();
+        arrList.show();
+        arrList.delete(3);
+        arrList.show();
+        arrList.clear();
+        arrList.show();
     }
 }
