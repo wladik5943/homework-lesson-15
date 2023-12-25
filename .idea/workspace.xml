@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930a1781-e43b-4f3e-82d0-26a934c667ac" name="Changes" comment="Task3">
-      <change afterPath="$PROJECT_DIR$/src/ArrList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="930a1781-e43b-4f3e-82d0-26a934c667ac" name="Changes" comment="ArrList">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703521397908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ArrList">
+      <option name="closed" value="true" />
+      <created>1703526377513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703526377513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task2" />
     <MESSAGE value="Task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task3" />
+    <MESSAGE value="ArrList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrList" />
   </component>
 </project>

@@ -38,6 +38,8 @@ public class Main {
         arrList.show();
         arrList.add(43,3);
         arrList.show();
+        System.out.println(arrList.containe(4));
+        System.out.println(arrList.containe(7));
         arrList.show(4);
         arrList.delete();
         arrList.show();
